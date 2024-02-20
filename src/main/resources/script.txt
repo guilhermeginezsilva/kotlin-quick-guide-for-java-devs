@@ -6,6 +6,7 @@ Conditions;
 String functions;
 Class;
 Functions;
+Scoped Functions;
 Extension functions;
 Nullables and Null Checks;
 Functional Programming;
