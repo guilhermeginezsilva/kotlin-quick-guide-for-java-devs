@@ -1,0 +1,13 @@
+Data Types;
+Type Inference;
+Syntax;
+Loops;
+Conditions;
+String functions;
+Class;
+Functions;
+Extension functions;
+Nullables and Null Checks;
+Functional Programming;
+Coroutines;
+Real backend application;
